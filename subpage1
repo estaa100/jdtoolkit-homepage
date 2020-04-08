@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Ann Kristine Estaris’s Homepage for Journalism Design Toolkit</title>
+		<link rel="stylesheet" href="style.css" type="text/css" />
+	</head>
+
+	<body>
+
+		<h1 class="main-hed">My Logo</h1>
+
+		<h2 class="main-hed"><a href="index.html">Link back to homepage</a> </p>  </h2>
+
+		<img class="logo" src="new4.svg">
+
+		<p>This is my logo, which I created using Adobe Illustrator. It was quite hard to settle on something that I found aesthetically pleasing that also represented me. I thought that nothing could be more representative of me than my name, which is why I chose to base my logo around it.
+
+		<p>First, I used the circle tool to create the circle that surrounds the letter A. I then drew the letter A using the paintbrush tool in the color black. I also played around with the color palette to get the sage green inside the circle, then I filled that circle with the new color. Finally, I typed out my name and wrapped the text over the shape to create the finished logo you see above.  </p>
+
+		<div class="footer">
+		  <p>Ann Kristine Estaris
+			   Journalism + Design Toolkit</p>
+		</div>
+
+	</body>
+
+</html>
