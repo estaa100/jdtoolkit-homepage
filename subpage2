@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Ann Kristine Estaris’s Homepage for Journalism Design Toolkit</title>
+		<link rel="stylesheet" href="style.css" type="text/css" />
+	</head>
+
+	<body>
+
+		<h1 class="main-hed">My photo edits</h1>
+
+		<h2 class="main-hed"><a href="index.html">Link back to homepage</a> </p>  </h2>
+
+		<img class="logo" src="banner.jpg" width="600" height="600">
+
+		<img class="logo" src="creative.jpg" width="600" height="600">
+
+		<img class="logo" src="jd1.jpg" width="600" height="600">
+
+
+		<p>These are some images I took and edited for this class. They were all edited using Adobe Photoshop. <a href="new-page.html">This is a link to another page.</a> </p>
+
+		<p>The first image is a banner that I created using three images I took in Union Square. They were all resized to squares and placed into the banner.</p>
+
+		<p>The second image is an edit I made in Photoshop. I took elements from several other images (some of which are in the banner above) and pasted them into the new image. Upon closer inspection, this parking meter is surrounded by clouds, includes a bookstore's shopfront and windows, and the buttons were replaced by lettering from the subway station.</p>
+
+		<p>The third image is a photo I took at The Metropolitan Museum of Art in New York. I also added an SVG of the Journalism + Design logo.</p>
+
+		<div class="footer">
+			<p>Ann Kristine Estaris
+				 Journalism + Design Toolkit</p>
+		</div>
+
+		</body>
+
+		</html>
